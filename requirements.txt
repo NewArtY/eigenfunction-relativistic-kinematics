@@ -1,0 +1,13 @@
+# Runtime dependencies for the symbolic verification and figure-generation
+# code accompanying the paper
+#   "A Unified Eigenfunction Approach to Massive and Massless Particle
+#    Kinematics in Special Relativity."
+#
+# Developed and tested with Python 3.13.  Version floors below are the
+# versions the results were produced and archived with; newer patch/minor
+# releases are expected to work.
+
+sympy>=1.14
+numpy>=2.0
+matplotlib>=3.9
+mpmath>=1.3

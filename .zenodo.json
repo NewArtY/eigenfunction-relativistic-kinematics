@@ -1,0 +1,39 @@
+{
+  "title": "Symbolic verification and figure-generation code for: A Unified Eigenfunction Approach to Massive and Massless Particle Kinematics in Special Relativity",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "publication_date": "2026-07-08",
+  "language": "eng",
+  "license": "MIT",
+  "description": "Reproducible research code accompanying the Physical Review D theory paper \"A Unified Eigenfunction Approach to Massive and Massless Particle Kinematics in Special Relativity.\" The repository contains SymPy symbolic verifications of the Section II / Appendix A identities (eigenvalue equation, Wronskian, null light-cone basis, Einstein velocity addition, SO(1,1) boost group law), of the Section III velocity functional f(eta,a)=a*tanh(eta)/sqrt(1+a^2 tanh^2 eta) and its closed-form proper-time / affine primitives and massless (a -> infinity) limits, a high-precision mpmath recomputation of Table I, and matplotlib scripts that regenerate the paper's figures. A single driver (run_all.py) reproduces all results and figures and exits nonzero on any failure.",
+  "creators": [
+    {
+      "name": "Akintsov, N. S.",
+      "affiliation": "School of Artificial Intelligence and Computer Science, Nantong University, Nantong 226019, China",
+      "orcid": "0000-0002-1040-1292"
+    },
+    {
+      "name": "Nevecheria, A. P.",
+      "affiliation": "Department of Mathematical and Computer Methods, Kuban State University, Krasnodar 350040, Russia",
+      "orcid": "0000-0001-6736-4691"
+    },
+    {
+      "name": "Andreev, S. N.",
+      "affiliation": "Department of Radiophotonics, Research Center for Telecommunications, Moscow Institute of Physics and Technology, Dolgoprudny 141701, Russia",
+      "orcid": "0000-0003-3588-2894"
+    },
+    {
+      "name": "Qin, Qing-Hua",
+      "affiliation": "Institute of Advanced Interdisciplinary Technology, Shenzhen MSU-BIT University, Shenzhen 518172, China",
+      "orcid": "0000-0003-0948-784X"
+    }
+  ],
+  "keywords": [
+    "special relativity",
+    "rapidity",
+    "light cone",
+    "gyrovector",
+    "eigenfunction",
+    "massless limit"
+  ]
+}

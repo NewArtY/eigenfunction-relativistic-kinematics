@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the software and the accompanying article."
+title: "Symbolic verification and figure-generation code for: A Unified Eigenfunction Approach to Massive and Massless Particle Kinematics in Special Relativity"
+version: 1.0.0
+date-released: 2026-07-08
+license: MIT
+type: software
+authors:
+  - family-names: Akintsov
+    given-names: N. S.
+    orcid: "https://orcid.org/0000-0002-1040-1292"
+    affiliation: "School of Artificial Intelligence and Computer Science, Nantong University, Nantong 226019, China"
+  - family-names: Nevecheria
+    given-names: A. P.
+    orcid: "https://orcid.org/0000-0001-6736-4691"
+    affiliation: "Department of Mathematical and Computer Methods, Kuban State University, Krasnodar 350040, Russia"
+  - family-names: Andreev
+    given-names: S. N.
+    orcid: "https://orcid.org/0000-0003-3588-2894"
+    affiliation: "Department of Radiophotonics, Research Center for Telecommunications, Moscow Institute of Physics and Technology, Dolgoprudny 141701, Russia"
+  - family-names: Qin
+    given-names: Qing-Hua
+    orcid: "https://orcid.org/0000-0003-0948-784X"
+    affiliation: "Institute of Advanced Interdisciplinary Technology, Shenzhen MSU-BIT University, Shenzhen 518172, China"
+keywords:
+  - special relativity
+  - rapidity
+  - light cone
+  - gyrovector
+  - eigenfunction
+  - massless limit
+# The DOI is assigned automatically by Zenodo upon archival of this release.
+# Once minted, replace the placeholder below with the concept/version DOI.
+doi: "10.5281/zenodo.PLACEHOLDER"
