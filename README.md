@@ -29,8 +29,9 @@ reproduce the massless/null kinematics. This code verifies every one of those
 identities symbolically and at high numerical precision, recomputes Table I,
 and regenerates the figures.
 
-The repository is archived on **Zenodo** and cited from the article; the DOI
-minted by Zenodo is recorded in `CITATION.cff` and `.zenodo.json` on release.
+The repository is archived on **Zenodo** and cited from the article under DOI
+[10.5281/zenodo.21269570](https://doi.org/10.5281/zenodo.21269570), which is
+also recorded in `CITATION.cff` and `.zenodo.json`.
 
 ## Repository layout
 

@@ -29,6 +29,5 @@ keywords:
   - gyrovector
   - eigenfunction
   - massless limit
-# The DOI is assigned automatically by Zenodo upon archival of this release.
-# Once minted, replace the placeholder below with the concept/version DOI.
-doi: "10.5281/zenodo.PLACEHOLDER"
+# DOI minted by Zenodo for this archived release.
+doi: "10.5281/zenodo.21269570"
